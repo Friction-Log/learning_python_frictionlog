@@ -19,5 +19,3 @@ else:
 	print("var1 is less than var2")
 
 
-
-
