@@ -9,5 +9,4 @@ During our **[first-time experience video](https://www.youtube.com/watch?v=Wfnbz
 
 ## Videos
 
-1. [Intro: What on earth are you doing?!](https://youtu.be/JCR2svB848g)
-2. [Lesson 1: Syntax](https://www.youtube.com/watch?v=7Bbn0CF0z5Y)
+[Check out the playlist](https://www.youtube.com/watch?v=JCR2svB848g&list=PL6ehPtfgRbmNVmHXwcO3HyJlQAImjLbX-)
